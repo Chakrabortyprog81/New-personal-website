@@ -63,7 +63,9 @@ section{
 .fourth-part{
     background-image: url("Images/footer-bg.png");
     background-repeat: no-repeat;
-#What-client{
+    height: 400px;
+    padding-bottom: 60px;
+#What-client {
     text-align: center;
 }
 #jhankar{
